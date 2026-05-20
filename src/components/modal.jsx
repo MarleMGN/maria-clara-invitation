@@ -15,7 +15,7 @@ const Modal = ({ closeModal, openModal }) => {
       return;
     }
 
-    const formUrl = "https://script.google.com/macros/s/AKfycbz66IWv6J3tEKxQc9zE6LzA3UbsV_QIuQHtIwSpbSP0bikI98_0t4ZNdfvI24TZp5MqEg/exec";
+    const formUrl = "https://script.google.com/macros/s/AKfycbxCwvqjc7DucTCNgZaINbFNemtwNXBHdYvCUuBEpfMhhxovrl2gMxLP-W64TtvaCL8_Ew/exec";
 
     const formData = new FormData();
     formData.append("nome", nome);
