@@ -140,7 +140,6 @@ const Modal = ({ closeModal, openModal }) => {
           </>
         ) : (
           <div className="form__success show">
-            <div style={{ fontSize: 40, marginBottom: 16 }}>✦</div>
             <h3>Obrigado!</h3>
             <p>
               Sua presença foi confirmada.
