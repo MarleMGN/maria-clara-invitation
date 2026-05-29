@@ -906,12 +906,22 @@ body::before {
     width: 120px;
   }
 
+  .rsvp_img-left {
+    bottom: 450px;
+  }
+
   .rsvp_img-left img {
     width: 120px;
   }
 
   .info-hero-card::after {
     display: none;
+  }
+}
+
+@media (max-width: 530px) {
+  .rsvp_img-left {
+    bottom: 470px;
   }
 }
 
