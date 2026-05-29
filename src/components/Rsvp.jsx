@@ -37,7 +37,7 @@ const Rsvp = ({ onOpenModal }) => {
               letterSpacing: "0.1em",
             }}
           >
-            Dúvidas? Entre em contato via WhatsApp
+            Dúvidas? Entre em contato via WhatsApp +55 62 99399-4897
           </p>
         </div>
       </section>
