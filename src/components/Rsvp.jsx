@@ -32,7 +32,8 @@ const Rsvp = ({ onOpenModal }) => {
           <p
             style={{
               marginTop: "2rem",
-              fontSize: "0.85rem",
+              fontSize: "0.95rem",
+              fontWeight: "700",
               color: "var(--ink)",
               letterSpacing: "0.1em",
             }}
