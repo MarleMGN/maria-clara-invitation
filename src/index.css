@@ -909,6 +909,10 @@ body::before {
   .rsvp_img-left img {
     width: 120px;
   }
+
+  .info-hero-card::after {
+    display: none;
+  }
 }
 
 @media (max-width: 480px) {
